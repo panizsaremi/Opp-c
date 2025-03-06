@@ -1,0 +1,12 @@
+Class benz
+{
+public:
+Bool start()
+Bool result()=start engine() &&
+Start electro...() &&
+Start light system();
+}
+private : 
+Bool start engine (){}
+Bool start electronic service(){}
+Bool start right system ();}
